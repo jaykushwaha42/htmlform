@@ -4,7 +4,7 @@
 </head>
 
 <body>
-        <h1 style="color:green"> Student Registration Form</h1>
+        <h1 style="color:green"> Student Details Registration Form</h1>
     <form>
         <table>
             <tr>
