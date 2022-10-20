@@ -34,7 +34,7 @@
             </tr>
         </table>
         <label for="email">User Name:</label>
-        <input type="email" id="email" name="email" placeholder="User  Your Name" required><br><br>
+        <input type="text" id="email" name="email" placeholder="User  Your Name" required><br><br>
 
         <label for="email">Password:</label>
         <input type="password" id="email" name="email" placeholder="Enter Password " required>
