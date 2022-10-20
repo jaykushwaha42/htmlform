@@ -62,12 +62,7 @@
         <input type="radio" id="course" name="course">
         <label for="course">Other</label><br><br><br>
         <input type="submit" name="submit">
-    
-
-
-        </table>
     </form>
-    </div>
 
 </body>
 
