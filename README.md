@@ -1,6 +1,10 @@
 <html>
 
 <head>
+        <style>
+                
+        
+        </style>
 </head>
 
 <body>
@@ -33,10 +37,10 @@
         <input type="email" id="email" name="email" placeholder="User  Your Name" required><br><br>
 
         <label for="email">Password:</label>
-        <input type="email" id="email" name="email" placeholder="Enter Password " required>
+        <input type="password" id="email" name="email" placeholder="Enter Password " required>
 
         <label for="email">Confirm Password:</label>
-        <input type="email" id="email" name="email" placeholder="Confirm Password " required><br><br>
+        <input type="password" id="email" name="email" placeholder="Confirm Password " required><br><br>
 
         <label for="course">Your Course ✔:</label>
         <input type="checkbox" id="course" name="course">
